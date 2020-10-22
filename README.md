@@ -8,9 +8,9 @@ It takes two arguments i.e number of minutes system is to be awakened and action
 ## Sources
 For step by step guide please visit my blog [@shaikhu](https://shaikhu.com/how-to-keep-your-computer-awake-using-python)
 
-## Usage: app.py -t COUNT -a s|r
-COUNT is no of minutes to keep system awake
-s|r : s to shutdown, r to restart computer after COUNT no of minutes
+## Usage: app.py -t count -a s|r
+- count is no of minutes to keep system awake
+- s|r : s to shutdown, r to restart computer after count no of minutes
 ## examples
 1. to keep a system active for 300 minutes: 
 ```
